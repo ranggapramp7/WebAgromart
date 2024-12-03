@@ -22,7 +22,7 @@
 
 		</div>
 
-		<div class="copy" style="background-color: #007401; padding: 5px; color: #fff; text-align: center;">
+		<div class="copy" style="background-color: #007400; padding: 5px; color: #fff; text-align: center;">
 			<span>Copyright&copy; AGROMART</span>
 		</div>
 	</footer>
