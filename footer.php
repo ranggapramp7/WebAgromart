@@ -1,9 +1,9 @@
 
-	<footer style="border-top: 4px solid #ff8680;  ">
+	<footer style="border-top: 4px solid #007400;  ">
 		<div class="container" style="padding-bottom: 50px;">
 			<div class="row">
 				<div class="col-md-4">
-					<h3 style="color: #ff8680"><b>AGROMART</b></h3>
+					<h3 style="color: #007400"><b>AGROMART</b></h3>
 					<p>Jl. Politeknik - Senggarang, Tanjungpinang Provinsi Kepulauan Riau.</p>
 					<p><i class="glyphicon glyphicon-earphone"></i> +6281212398104</p>
 					<p><i class="glyphicon glyphicon-envelope"></i> agromart@gmail.com</p>
@@ -22,7 +22,7 @@
 
 		</div>
 
-		<div class="copy" style="background-color: #ff8680; padding: 5px; color: #fff; text-align: center;">
+		<div class="copy" style="background-color: #007400; padding: 5px; color: #fff; text-align: center;">
 			<span>Copyright&copy; AGROMART</span>
 		</div>
 	</footer>
