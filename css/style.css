@@ -1,0 +1,27 @@
+body{
+	margin:0;
+	padding: 0;
+}
+.top{
+	background-color: #ff8d87;
+	color: #fff;
+}
+.judul{
+	font-size: 12pt;
+    padding: 10px;
+    font-weight: bold;
+}
+.link{
+	margin-top: 20px;
+}
+.product-img {
+	width: 100%;       /* Gambar akan memenuhi lebar kontainer */
+	height: 250px;     /* Tentukan tinggi gambar */
+	object-fit: cover; /* Memastikan gambar terjaga proporsinya dan cropped jika perlu */
+}
+
+    .product-img {
+        width: 100% !important;
+        height: 260px !important;
+        object-fit: cover !important;
+}
