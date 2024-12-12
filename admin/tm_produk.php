@@ -57,17 +57,22 @@ else if(strlen($add) == 3){
 		</div>
 
 		<div class="form-group">
-			<label for="exampleInputPassword1">Deskripsi</label>
-			<textarea name="desk" class="form-control" va>
+			<label for="kategori">Kategori Produk</label>
+			<select name="kategori" class="form-control">
+				<option value="Sayuran">Sayuran</option>
+				<option value="Buah">Buah</option>
+			</select>
+		</div>
 
-			</textarea>
+		<div class="form-group">
+			<label for="exampleInputPassword1">Deskripsi</label>
+			<textarea name="desk" class="form-control"></textarea>
 		</div>
 		<hr>
 
-				<div class="row">
-			
+		<div class="row">
 			<div class="col-md-6">
-				<button type="submit"  class="btn btn-success btn-block" ><i class="glyphicon glyphicon-plus-sign"></i> Tambah</button>
+				<button type="submit" class="btn btn-success btn-block"><i class="glyphicon glyphicon-plus-sign"></i> Tambah</button>
 			</div>	
 			<div class="col-md-6">
 				<a href="m_produk.php" class="btn btn-danger btn-block">Cancel</a>
@@ -75,12 +80,8 @@ else if(strlen($add) == 3){
 		</div>
 
 		<br>
-
-	</div>
-</form>
-
+	</form>
 </div>
-
 
 <br>
 <br>
