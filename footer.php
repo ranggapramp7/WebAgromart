@@ -8,13 +8,7 @@
 					<p><i class="glyphicon glyphicon-earphone"></i> +6281212398104</p>
 					<p><i class="glyphicon glyphicon-envelope"></i> agromart@gmail.com</p>
 				</div>
-				<div class="col-md-4">
-					<h5><b>Menu</b></h5>
-					<p><a href=""  style="color: #000">Produk</a></p>
-					<p><a href=""  style="color: #000">Tentang kami</a></p>
-					<p><a href=""  style="color: #000">Hubungi Kami</a></p>
-				</div>
-
+		
 				<div class="col-md-4">
 					
 				</div>
